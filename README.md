@@ -1,2 +1,2 @@
-# Tony marti portfolio
+# Tony Marti portfolio
 This is my professional portfolio. It uses AWS and ReactJS.
